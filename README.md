@@ -121,8 +121,7 @@ The root-level `backend/test_llm.py` is a separate manual provider check and can
 - [Prototype assessments](backend/ASSET_ASSESSMENT_API.md)
 - [Advisory reuse guidance](backend/REUSE_GUIDANCE_API.md)
 
-## Limitations and next steps
+## Limitations
 
 This is a hackathon prototype over synthetic evidence. It does not grant access, approve reuse,
-retire assets, or carry out migration. Planned work includes stable cloud hosting, persistent
-human-review workflows, and deeper migration and consolidation comparisons.
+retire assets, or carry out migration.
