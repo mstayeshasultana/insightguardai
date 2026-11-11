@@ -3,7 +3,7 @@
 Find existing analytics, inspect supporting evidence, and understand concerns before reuse.
 Built for the Bayer challenge at Since AI 2026 using the provided synthetic analytics dataset.
 
-**Demo:** https://screenshot-to-spark-4371.lovable.app/
+**Demo:** https://youtu.be/TUcrEKghWDQ?is=6EnL_KuutclcpVSY
 
 **Pitch deck:** [Download PDF](docs/InsightGuard_AI_Pitch_Deck.pdf)
 
